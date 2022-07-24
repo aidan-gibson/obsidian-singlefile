@@ -1,3 +1,22 @@
+Uses SingleFile CLI to save every external link as a SingleFile html in your media folder.
+
+Context Menu on ext link "Open Local HTML"
+
+Commands:
+Run on entire vault
+Run on this one note
+
+Options / User Config:
+singlefile CLI parameters to pass along (?)
+Automatically run (y/n)
+
+
+
+
+
+
+
+
 # Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
